@@ -1,6 +1,6 @@
 release-date:1295618254000
 compile-date:1295618254000
-url:https://github.com/Back2Alpha/Back2Alpha/raw/main/Back2Alpha%20v0.42.zip
+url:https://raw.githubusercontent.com/Back2Alpha/Back2Alpha/refs/heads/main/Old/Back2Alpha%20v0.42.zip
 launch-method:indev
 launch-method-link:
 proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11705
